@@ -51,7 +51,25 @@
 - GitHub
 
 ---
+## Environment & Dependencies
 
+The project was developed using the following environment and library versions:
+
+| Component | Version |
+|-----------|----------|
+| Python | 3.11.15 |
+| Pandas | 3.0.3 |
+| NumPy | 2.4.6 |
+| Matplotlib | 3.10.9 |
+| Seaborn | 0.13.2 |
+
+### Environment
+
+- Distribution: Anaconda
+- Environment Name: `market_analysis`
+- Operating System: Windows
+
+---
 ## Author
 
 Sagnik Kundu
