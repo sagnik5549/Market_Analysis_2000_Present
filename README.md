@@ -11,11 +11,6 @@
 
 ---
 
-## Project Overview
-
-This project presents a comprehensive exploratory analysis of global financial market data spanning from 2000 to May 2026.
-
----
 
 ## Business Objectives
 
