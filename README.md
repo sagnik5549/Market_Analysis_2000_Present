@@ -1,13 +1,14 @@
-# Global Financial Market Analysis (2000–2026)
+# Global Financial Market Analysis (2000–May 2026)
 
 ## Project Highlights
 
 - Analyzed 187,611+ financial market records
-- Covers 26 years of market activity (2000–May 2026)
+- Covers almost 26 years of market activity (2000–May 2026)
 - Includes Stock Indices, Commodities, Currencies, and Cryptocurrencies
 - Performed Data Understanding, Data Cleaning, and Exploratory Data Analysis
 - Investigated major market events including the Dot-Com Crash, Global Financial Crisis, and COVID-19 pandemic
 - Generated insights on market trends, trading activity, and asset behavior
+- Prepared a professional technical report using LaTeX (Overleaf)
 
 ---
 
@@ -30,25 +31,26 @@
 
 ---
 
-## Project Status
-
-- Data Understanding Completed
-- Data Cleaning Completed
-- Exploratory Data Analysis Completed
-- Insights and Findings Notebook In Progress
-
----
 
 ## Technologies Used
 
+### Data Analysis
 - Python
 - Pandas
 - NumPy
+
+### Data Visualization
 - Matplotlib
 - Seaborn
+
+### Documentation & Reporting
+- LaTeX (Overleaf)
+
+### Development Tools
 - Jupyter Notebook
 - Git
 - GitHub
+- Anaconda
 
 ---
 ## Environment & Dependencies
@@ -68,6 +70,16 @@ The project was developed using the following environment and library versions:
 - Distribution: Anaconda
 - Environment Name: `market_analysis`
 - Operating System: Windows
+
+---
+## Future Scope
+
+- Time Series Forecasting
+- Machine Learning Models
+- Volatility Analysis
+- Portfolio Optimization
+- Interactive Dashboards
+- Market Risk Analysis
 
 ---
 ## Author
